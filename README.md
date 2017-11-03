@@ -1,2 +1,5 @@
 # hello-world
-Intro stuff
+
+Hi!
+
+I think this is my first commit to GitHub.
